@@ -49,7 +49,7 @@ This course aims to introduce the fundamental concept of data structures and to 
 
 | **Week**       | **Topics Covered**                                                                                 |
 |-----------------|----------------------------------------------------------------------------------------------------|
-| **Week 1**     | - Fundamentals of data structures  <br> - An overview of computer programming  <br> - Data types, abstract data types  <br> - C/C++ background  <br> - Review of pointers: defining pointer variables, pointer arithmetic, memory diagrams |
+| **Week 1**     | - Fundamentals of data structures  <br> - An overview of computer programming  <br> - Data types, abstract data types  <br> - Review of pointers: defining pointer variables, pointer arithmetic, memory diagrams |
 | **Week 2**     | - Review of pointers continued: pointers and arrays, pointer indirections, structures and pointers  <br> - Passing pointer arguments to a function and returning pointers from a function |
 | **Week 3**     | - Computational complexity of algorithms and their time-space analysis  <br> - Running time calculations  <br> - Asymptotic notations for algorithmic complexity analysis |
 | **Week 4**     | - Lists: simple arrays, linked lists  <br> - Linear search vs binary search |
