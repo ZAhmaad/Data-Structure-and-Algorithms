@@ -72,9 +72,9 @@ You can find the soft version of the books below [here](./Reference%20Books).
 
 | **Books**                                                                                   |
 |-------------------------------------------------------------------------------------------|
-| Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir. |                                              |
-| data structures and algorithms in Python by Goodrich, Tamassia, and Goldwasser.                   |
-| Problem Solving with Algorithms and Data Structures using Python By Brad Miller and David Ranum, Luther College. |                                |
+| Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir. |                                              
+| Data structures and algorithms in Python by Goodrich, Tamassia, and Goldwasser.                   |
+| [**Problem Solving with Algorithms and Data Structures using Python**](https://runestone.academy/ns/books/published/pythonds/index.html)    |
 
 
 
