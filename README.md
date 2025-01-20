@@ -6,7 +6,8 @@ Welcome to the Data Structure and Algorithms course repository! This repository 
 ## How to Use This Repository
 - Clone the repository using:
   ```bash
-  git clone https://github.com/ZAhmaad/Secure-Software-Design-And-Engineering.git
+  git clone https://github.com/ZAhmaad/Data-Structure-and-Algorithms
+
 
 ## Table of Contents
 - [Introduction](#introduction)
