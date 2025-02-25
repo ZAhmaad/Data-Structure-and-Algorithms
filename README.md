@@ -91,14 +91,11 @@ If you have any questions or need assistance, feel free to reach out:
 
 ## Office Hours
 
-I am available during the following hours to discuss course-related topics or other queries:
-
-- 🕒 **Office Hours**:  
-  - Will share soon
+I am available during the office hours to discuss course-related topics or other queries:
 
 - 📍 **Office Location**:  
   Room G14, FCSE lobby, GIKI
 
-Feel free to book an appointment in advance by email or visit during the specified hours.
+Feel free to book an appointment in advance by email or visit during the office hours.
 
 
